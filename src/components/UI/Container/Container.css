@@ -20,7 +20,7 @@
 }
 .nomeProduto{
   color: #6b2d9b;
-  font: 18;
+  font-size: 18px;
   font-family: 'Nunito', sans-serif;
 }
 .imagemProduto{
@@ -29,6 +29,6 @@
 }
 .valorProduto{
   color: #6b2d9b;
-  font: 18;
+  font-size: 18px;
   font-family: 'Nunito', sans-serif;
 }
