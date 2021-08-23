@@ -1,0 +1,14 @@
+.main-Header {
+  /* 'Header' Estilização de Lista de Produtos - Button */
+  padding: 1em;
+  display: flex;
+  justify-content: space-between;
+}
+
+.buttons {
+  background: #ffff;
+  font-weight: 400;
+  text-align: center;
+  color: #6b2d9b;
+  border-radius: 5px;
+}
