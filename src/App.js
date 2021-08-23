@@ -1,7 +1,10 @@
+import "./App.css";
+import { Container } from "./components/UI/Container/Container";
+
 function App() {
   return (
     <div className="App">
-      <h1>Dale</h1>
+      <Container />
     </div>
   );
 }
