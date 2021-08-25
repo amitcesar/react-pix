@@ -1,0 +1,28 @@
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 0;
+}
+.produto{
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+}
+.nomeProduto{
+  color: #6b2d9b;
+  font-size: 18px;
+  font-family: 'Nunito', sans-serif;
+}
+.imagemProduto{
+  align-items: center;
+  width: 200px;
+}
+.valorProduto{
+  color: #6b2d9b;
+  font-size: 18px;
+  font-family: 'Nunito', sans-serif;
+}
